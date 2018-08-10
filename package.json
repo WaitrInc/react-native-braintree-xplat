@@ -1,5 +1,5 @@
 {
-  "name": "react-native-braintree-xplat",
+  "name": "@waitr/react-native-braintree-xplat",
   "version": "4.0.0",
   "description": "Cross platform Braintree module",
   "main": "index",
@@ -9,8 +9,4 @@
     "url": "https://github.com/kraffslol"
   },
   "license": "MIT",
-  "respository": {
-    "type": "git",
-    "url": "git@github.com:kraffslol/react-native-braintree-xplat.git"
-  }
 }
